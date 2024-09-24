@@ -114,8 +114,9 @@ Please see also:<br>
 </h3>
  If you would like to train this BigBrain Segmentation model by yourself,
  please download the dataset from the google drive 
-<a href="https://drive.google.com/file/d/1hfbLBx8DHda_-Ke3q7zpmt5ULpP1gkqh/view?usp=sharing">
-Alzheimer-s-Disease-ImageMask-Dataset.zip</a>, expand the downloaded ImageMaskDataset and put it under <b>./dataset</b> folder to be
+<a href="https://drive.google.com/file/d/1yOgBhScahk4yb-xCleNFUfEG3JkXSgwi/view?usp=sharing">
+FAZ_Alzheimer-s-Disease-ImageMask-Dataset-V1.zip
+</a>. expand the downloaded ImageMaskDataset and put it under <b>./dataset</b> folder to be
 <pre>
 ./dataset
 └─Alzheimer-s-Disease
