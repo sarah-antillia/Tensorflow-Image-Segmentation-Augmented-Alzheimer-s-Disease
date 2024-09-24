@@ -3,7 +3,6 @@
 This is the second experiment of Image Segmentation for Alzheimer-s-Disease
  based on
 the <a href="https://github.com/sarah-antillia/Tensorflow-Image-Segmentation-API">Tensorflow-Image-Segmentation-API</a>, and
-the <a href="https://github.com/sarah-antillia/Tensorflow-Image-Segmentation-API">Tensorflow-Image-Segmentation-API</a>, and
 <a href="https://drive.google.com/file/d/1yOgBhScahk4yb-xCleNFUfEG3JkXSgwi/view?usp=sharing">
 FAZ_Alzheimer-s-Disease-ImageMask-Dataset-V1.zip
 </a>
